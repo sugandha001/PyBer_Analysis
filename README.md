@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-The purpose of this Analysis is to provide ridesharing data for the company Pyber. We wrote Python scripts using Pandas libraries, the Jupyter Notebook, and Matplotlib to showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city. The analysis and visualizations will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
+The purpose of this Analysis is to provide ridesharing data for the company Pyber. We wrote Python scripts using Pandas libraries, the Jupyter Notebook, and Matplotlib to create a summary DataFrame of the ride-sharing data by city type. Created a multiple-line graph that shows the total weekly fares for each city type. The analysis and visualizations will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
 
 ## Result of our Analysis
 
