@@ -5,11 +5,17 @@ The purpose of this Analysis is to provide ridesharing data for the company Pybe
 ## Result of our Analysis
 
 Based on the chart we deduced from the data we can see that urban cities generate the most total revenue, followed by suburban and then Rural cities.
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/112904905/198326524-04f5c3f8-773a-46d2-bc89-2d9d4509f792.png)
+
 To analyze fare for riders we generated a chart.
+
 ![PyBer_summary](https://user-images.githubusercontent.com/112904905/198328737-1039f7b7-c8c1-4980-b01e-d331196b458a.png)
+
 As this table displays the number of rides in urban city is way more than number of rides in rural cities and so is total number of drivers. So, it is evident that Average fare per ride and average fare per driver is much more in Rural cities than Urban cities.
+
 Based on above analysis we can deduce that -
+
 1) More revenue is generated in urban cities for PyBer.
 2) Average fare is less for urban city riders.
 3) Rural areas have less number of drivers and hence they make less.
