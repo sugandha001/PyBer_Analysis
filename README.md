@@ -10,7 +10,7 @@ Based on the chart we deduced from the data we can see that urban cities generat
 
 To analyze fare for riders we generated a table.
 
-
+![Pyber Summary](./pyBer_summary.png)
 
 As this table displays the number of rides in urban city is way more than number of rides in rural cities and so is total number of drivers. So, it is evident that Average fare per ride and average fare per driver is much more in Rural cities than Urban cities.
 
